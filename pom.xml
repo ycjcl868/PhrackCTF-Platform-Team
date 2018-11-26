@@ -10,7 +10,7 @@
 
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-		<spring.version>4.2.4.RELEASE</spring.version>
+		<spring.version>4.3.15.RELEASE</spring.version>
 	</properties>
 
 
@@ -199,7 +199,7 @@
 		<dependency>
 			<groupId>org.apache.shiro</groupId>
 			<artifactId>shiro-ehcache</artifactId>
-			<version>1.2.4</version>
+			<version>1.4.0</version>
 		</dependency>
 		
 		<dependency>
